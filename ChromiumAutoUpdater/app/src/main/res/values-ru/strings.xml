@@ -44,6 +44,7 @@
     <string name="notifyDone_notification">Chromium обновлен успешно</string>
 
     <string name="error">Ошибка</string>
+    <string name="error_report">Отчет о проблемах</string>
 
     <string name="title_activity_enable_non_market_apps">Разрешить установку приложений из неизвестных источников</string>
     <string name="notpapps_title">Пожалуйста, разрешите установку приложений из неизвестных источников</string>
@@ -67,6 +68,6 @@
     <string name="intro_title4">Все готово!</string>
     <string name="intro_text4">Просто напоминание: это приложение никак не связано с Google или с Chromium.</string>
     <string name="intro_endButton">Включить обновления</string>
-    <string name="notEnoughSpace_title">Не удалось обновить</string>
-    <string name="notEnoughSpace_desc">недостаточно пространства</string>
+    <string name="notEnoughSpace">недостаточно пространства</string>
+    <string name="notEnoughSpace_retry">Повторим попытку позже</string>
 </resources>

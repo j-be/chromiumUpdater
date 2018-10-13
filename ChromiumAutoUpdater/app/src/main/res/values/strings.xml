@@ -50,8 +50,10 @@
     <string name="notifyDone">Notify after updating</string>
     <string name="notifyDone_desc">Show a notification after a successful update</string>
     <string name="notifyDone_notification">Chromium was updated successfully</string>
+    <string name="notEnoughSpace">Not enough space to update</string>
 
     <string name="error">Error</string>
+    <string name="error_report">Report</string>
 
     <string name="title_activity_enable_non_market_apps">Allow Third party Apps</string>
     <string name="notpapps_title">Please allow Third party apps to be installed</string>
@@ -75,6 +77,5 @@
     <string name="intro_title4">You\'re ready to go!</string>
     <string name="intro_text4">Just a reminder: this app is not in any way affiliated with Google or the Chromium project.</string>
     <string name="intro_endButton">Enable Updater</string>
-    <string name="notEnoughSpace_title">Update failed</string>
-    <string name="notEnoughSpace_desc">Not enough free space</string>
+    <string name="notEnoughSpace_retry">We\'ll try again later</string>
 </resources>
